@@ -1,4 +1,4 @@
-# ml-with-pyspark_translations_Chinese
+# machine-learning-with-pyspark
 
 With Natural Language Processing and Recommender Systems apress (2019)版
 
