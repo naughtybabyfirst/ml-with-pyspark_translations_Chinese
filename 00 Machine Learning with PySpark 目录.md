@@ -66,17 +66,17 @@ Pramod Singh
 
 ### 3.3 过滤数据
 
-### 3.4 去重 Distinct Values in Column
+### 3.4 一列中的不同取值
 
 ### 3.5 数据分组
 
-### 3.6 agg
+### 3.6 聚合
 
 ### 3.7 自定义函数
 
-### 3.8 Drop Duplicate Values
+### 3.8 删除重复值
 
-### 3.9 Delete Column
+### 3.9 删除列
 
 ### 3.10 写数据
 
