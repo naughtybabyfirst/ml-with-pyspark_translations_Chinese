@@ -8,6 +8,6 @@ With Natural Language Processing and Recommender Systems apress (2019)版
 
 一天或者两天翻译一章。
 
-[Apress的图书里的代码](https://github.com/Apress/machine-learning-with-pyspark)
+[Source Code for 'Machine Learning with PySpark' by Pramod Singh](https://github.com/Apress/machine-learning-with-pyspark)
 
 ![封面](https://github.com/naughtybabyfirst/ml-with-pyspark_translations_Chinese/blob/master/%E5%B0%81%E9%9D%A2.png)
