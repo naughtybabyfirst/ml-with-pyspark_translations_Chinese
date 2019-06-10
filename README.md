@@ -9,9 +9,7 @@ With Natural Language Processing and Recommender Systems apress (2019)版
 还剩最后一章。
 
 
-云端spark集群
-
-https://community.cloud.databricks.com
+云端spark集群 : https://community.cloud.databricks.com
 
 
 [Source Code for 'Machine Learning with PySpark' by Pramod Singh](https://github.com/Apress/machine-learning-with-pyspark)
