@@ -6,7 +6,7 @@ With Natural Language Processing and Recommender Systems apress (2019)版
 
 翻译成中文
 
-一天或者两天翻译一章。
+还剩最后一章。
 
 [Source Code for 'Machine Learning with PySpark' by Pramod Singh](https://github.com/Apress/machine-learning-with-pyspark)
 
