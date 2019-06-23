@@ -6,8 +6,7 @@ With Natural Language Processing and Recommender Systems apress (2019)版
 
 翻译成中文
 
-还剩最后一章。
-
+初步翻译完结
 
 云端spark集群 : https://community.cloud.databricks.com
 
